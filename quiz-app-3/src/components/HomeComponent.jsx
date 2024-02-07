@@ -7,7 +7,7 @@ export default function HomeComponent(){
   return(
     <div className="main">
       <h3 className="main-heading">Quiz App</h3>
-      <Link to="/play-quiz" className="mainButton">
+      <Link to="/play-quiz" className="mainButton1">
         <button className="mainButton">Play</button>
       </Link>
     </div>
